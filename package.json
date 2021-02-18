@@ -1,0 +1,24 @@
+{
+  "name": "google_search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayanthiAS/google_search.git"
+  },
+  "author": "Jayanthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayanthiAS/google_search/issues"
+  },
+  "homepage": "https://github.com/JayanthiAS/google_search#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "google-search-results-nodejs": "^2.0.1"
+  }
+}
